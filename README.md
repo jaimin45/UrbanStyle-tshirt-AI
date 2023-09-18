@@ -5,8 +5,6 @@ UrbanStyle T-Shirt AI is a powerful tool that allows you to create custom T-shir
 
 ## Features
 
-### APIs
-
 - **T-Shirt Design Tool**: UrbanStyle enables you to design T-shirts with AI-generated graphics and patterns.
 
 - **Color Picker**: Choose from a wide range of colors to customize your T-shirt.
