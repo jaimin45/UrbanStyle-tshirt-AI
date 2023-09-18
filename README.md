@@ -13,6 +13,12 @@ UrbanStyle T-Shirt AI is a powerful tool that allows you to create custom T-shir
 
 - **AI Integration with OpenAI (DALL·E 2)**: UrbanStyle leverages OpenAI's DALL·E 2 to provide AI-generated design suggestions, helping you create unique and artistic T-shirt designs.
 
+
+
+https://github.com/jaimin45/UrbanStyle-tshirt-AI/assets/78346677/69409227-9777-4a67-aa88-c271b188ae59
+
+
+
 ### Client (React + Vite)
 
 This repository includes a client-side implementation of UrbanStyle using React and Vite. It provides a minimal setup to get React working with HMR (Hot Module Replacement) and some ESLint rules.
